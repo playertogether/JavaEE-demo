@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaEE-demo.iml" filepath="$PROJECT_DIR$/.idea/JavaEE-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/githubdemo/githubdemo.iml" filepath="$PROJECT_DIR$/githubdemo/githubdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springsecurity/springsecurity.iml" filepath="$PROJECT_DIR$/springsecurity/springsecurity.iml" />
+    </modules>
+  </component>
+</project>

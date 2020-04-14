@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/springsecurity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springsecurity/src/main/webapp/WEB-INF/jsp/fail.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springsecurity/src/main/webapp/WEB-INF/jsp/index.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springsecurity/src/main/webapp/WEB-INF/jsp/logout.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springsecurity/src/main/webapp/WEB-INF/jsp/main.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springsecurity/src/main/webapp/WEB-INF/jsp/order.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springsecurity/src/main/webapp/WEB-INF/jsp/product.jsp" charset="GBK" />
+  </component>
+</project>
